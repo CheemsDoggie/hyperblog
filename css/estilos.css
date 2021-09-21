@@ -30,6 +30,7 @@ body {
 	margin: 0 auto;
 }
 
-#container {
+#container #post{
 	font-size: 20px;
+	margin: 1em;
 }
